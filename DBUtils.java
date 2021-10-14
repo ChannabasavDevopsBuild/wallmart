@@ -1,1 +1,1 @@
-This is the Java coe file contains the DB realated code..
+This is the Java code file contains the DB realated code..
